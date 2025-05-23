@@ -1,10 +1,10 @@
-# 📚 Book Review API
+# Book Review API
 
 A RESTful API for managing book reviews, supporting authentication, book listings with filters, and review operations. Built with **Node.js**, **Express**, **MongoDB**, and **Mongoose**.
 
 --------------------------------------------------
 
-## 🚀 Project Setup Instructions
+## Project Setup Instructions
 
 1. **Clone the repository:**
 2. git clone https://github.com/your-username/book-review-api.git
