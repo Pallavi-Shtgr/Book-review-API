@@ -109,41 +109,65 @@ curl "http://localhost:5000/search?query=Rowling"
 
 ---------------------------------------------------------
 
-## 1. POST - Signup (testuser2)
-![Signup](assets/1. POST - signup( testuser2).png)
+## 1. POST - Signup
+
+![1  POST - signup( testuser2)](https://github.com/user-attachments/assets/26d1350f-2b86-4639-9b5a-0951970ccb89)
+
 
 ## 2. POST - Login
-![Login](assets/2. POST  - login.png)
+
+![2  POST  - login](https://github.com/user-attachments/assets/9479a313-bd54-4bdd-824a-228d34e0f51e)
+
 
 ## 3. POST - Add New Book
-![Add New Book](assets/3. POST - add new book.png)
+
+![3  POST - add new book](https://github.com/user-attachments/assets/1eff9000-a40e-411c-b021-9e3a4a14655f)
+
 
 ## 4. GET - All Books with Filtered
-![Filtered Books](assets/4. GET - all books with filtered.png)
+
+![4  GET - all books with filtered](https://github.com/user-attachments/assets/9b975146-1a2c-480c-8cce-5de059d0db40)
+
 
 ## 5. GET - All Books with Pagination
-![Paginated Books](assets/4. GET - all books with pagination.png)
+![4  GET - all books with pagination](https://github.com/user-attachments/assets/912e57e5-6b4a-42ee-94a4-da5a6de6d3e9)
+
 
 ## 6. GET - All Books
-![All Books](assets/4.GET - all books.png)
+
+![4 GET - all books](https://github.com/user-attachments/assets/e9eecffd-6322-4780-a52e-bd4204fa9e7b)
+
 
 ## 7. GET - Details of the Book
-![Book Details](assets/5. GET - deatils of the book.png)
+
+![5  GET - deatils of the book](https://github.com/user-attachments/assets/8f37eef1-44c7-4900-a500-5d38c3e490ef)
+
 
 ## 8. POST - Submit a Review
-![Submit Review](assets/6. POST - submit a review.png)
+
+![6  POST - submit a review](https://github.com/user-attachments/assets/75286957-7001-4da8-8f87-c23b747c45c9)
 
 ## 9. PUT - Update the Details
-![Update Book](assets/7.PUT - update the details.png)
+
+![7 PUT - update the details](https://github.com/user-attachments/assets/e97841d4-e68a-4bb0-882f-f70bf77e61f2)
+
 
 ## 10. DELETE - Review Deletion
-![Delete Review](assets/8. DELETE - review deletion.png)
+
+![8  DELETE - review deletion](https://github.com/user-attachments/assets/70b0e36c-fbe0-4003-876e-f10712ee3f08)
+
 
 ## 11. GET - Search by Author
-![Search Author](assets/9. GET - search by author.png)
+
+![9  GET - search by author](https://github.com/user-attachments/assets/c427e235-b341-4aab-affd-5b1b652fe3f9)
 
 ## 12. GET - Search by Title (Raw Form)
-![Search Title Raw](assets/9. GET - search by title (raw form).png)
+
+![9  GET - search by title (raw form)](https://github.com/user-attachments/assets/db9e6c74-a3ff-4a39-9e66-c3582cfdd877)
+
 
 ## 13. GET - Search by Title
-![Search Title](assets/9. GET - search by title.png)
+
+![9  GET - search by title](https://github.com/user-attachments/assets/d01c3fa9-b911-4f34-b5e5-38e54de0738c)
+
+
