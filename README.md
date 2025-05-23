@@ -27,7 +27,7 @@ Or use:
 nodemon server.js
 -----------------------------------------------------------------
 
-## 📦 How to Run Locally
+##  How to Run Locally
 
 - Ensure MongoDB is running.
 - Make sure you have set the `.env` file.
@@ -35,7 +35,7 @@ nodemon server.js
 - Access it via Postman or `curl` at `http://localhost:5000`.
 
 ---
-# 📚 Book Review API — CURL Command Examples
+# Book Review API — CURL Command Examples
 
 ---
 
