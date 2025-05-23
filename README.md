@@ -108,3 +108,42 @@ curl "http://localhost:5000/search?query=Rowling"
 <sub>- Pagination params (page, limit) are optional.</sub>
 
 ---------------------------------------------------------
+
+## 1. POST - Signup (testuser2)
+![Signup](assets/1. POST - signup( testuser2).png)
+
+## 2. POST - Login
+![Login](assets/2. POST  - login.png)
+
+## 3. POST - Add New Book
+![Add New Book](assets/3. POST - add new book.png)
+
+## 4. GET - All Books with Filtered
+![Filtered Books](assets/4. GET - all books with filtered.png)
+
+## 5. GET - All Books with Pagination
+![Paginated Books](assets/4. GET - all books with pagination.png)
+
+## 6. GET - All Books
+![All Books](assets/4.GET - all books.png)
+
+## 7. GET - Details of the Book
+![Book Details](assets/5. GET - deatils of the book.png)
+
+## 8. POST - Submit a Review
+![Submit Review](assets/6. POST - submit a review.png)
+
+## 9. PUT - Update the Details
+![Update Book](assets/7.PUT - update the details.png)
+
+## 10. DELETE - Review Deletion
+![Delete Review](assets/8. DELETE - review deletion.png)
+
+## 11. GET - Search by Author
+![Search Author](assets/9. GET - search by author.png)
+
+## 12. GET - Search by Title (Raw Form)
+![Search Title Raw](assets/9. GET - search by title (raw form).png)
+
+## 13. GET - Search by Title
+![Search Title](assets/9. GET - search by title.png)
