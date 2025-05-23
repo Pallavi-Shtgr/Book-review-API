@@ -106,3 +106,5 @@ curl "http://localhost:5000/search?query=Rowling"
 # - Replace YOUR_JWT_TOKEN with your actual JWT token.
 # - Replace BOOK_ID and REVIEW_ID with actual IDs from your database.
 # - Pagination params (page, limit) are optional.
+
+---------------------------------------------------------
